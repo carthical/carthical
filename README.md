@@ -1,23 +1,21 @@
-# Karthik Gowda
+# Hi there, I'm Karthik Gowda 👋
 
-**Web Developer | BSc IT Student | Product Builder**
+**Web Developer | BSc IT Student | SaaS Builder**
 
-Hello. I am a Mumbai-based developer currently pursuing my BSc in Information Technology at Bhavan's College. My focus is on practical, product-driven development—taking an idea from a blank canvas to a deployed, functional application. 
-
-My approach bridges the gap between business logic and clean code. I specialize in utilizing modern tools, Backend-as-a-Service (BaaS) platforms, and AI-assisted workflows to rapidly prototype and ship software that solves actual problems.
+I am a Mumbai-based developer passionate about bridging the gap between business logic and clean code. I specialize in building functional, revenue-generating web applications and SaaS platforms. Currently pursuing my BSc IT at Bhavan's College, I am actively exploring AI-driven engineering while building a strong foundation in Data Structures and Algorithms.
 
 ---
 
-### About My Work
+### 🚀 About Me
 
-Recently, I architected and deployed a complete SaaS platform for Supremacy Edu. Rather than just writing standalone scripts, I built a system from the ground up: handling role-based authentication, designing distinct interactive dashboards for clients and employees, and integrating live payment gateways and automated email systems. 
-
-**Current Focus:** 
-While my immediate experience is rooted in full-stack product building, I am currently dedicating my time to mastering Data Structures and Algorithms (DSA) and studying scalable backend architecture to transition into enterprise-level engineering.
+- 🔭 **Currently working on:** Expanding my full-stack capabilities and building interactive web applications.
+- 🌱 **Currently learning:** Deep-diving into Data Structures & Algorithms (DSA) and scalable Backend Architecture.
+- 💼 **What I've built:** Engineered a complete SaaS platform for Supremacy Edu featuring role-based authentication, real-time dashboards, and integrated payment gateways (Razorpay).
+- ⚡ **My approach:** I leverage modern BaaS tools like Supabase and AI-assisted workflows to rapidly prototype, build, and ship production-ready applications.
 
 ---
 
-### Technical Expertise
+### 🛠️ Tech Stack & Tools
 
 **Frontend:**
 <p>
@@ -26,29 +24,33 @@ While my immediate experience is rooted in full-stack product building, I am cur
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Backend & Integration:**
+**Backend & BaaS:**
 <p>
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Razorpay_API-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Deployment & Version Control:**
+**Deployment & Tools:**
 <p>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### Featured Projects
+### 📈 GitHub Stats
 
-*   **Supremacy Edu SaaS:** A revenue-generating web application featuring secure user authentication, distinct client/employee dashboards, and real-time referral tracking metrics.
-*   **Dream 4 Destination:** A highly responsive, single-page corporate web asset optimized for continuous deployment and zero-maintenance hosting.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Karthik's GitHub Stats" />
+</p>
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the link above with your actual GitHub username to activate the dynamic stats widget.)*
 
 ---
 
-### Connect With Me
+### 📫 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/carthical/">
