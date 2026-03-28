@@ -43,10 +43,8 @@ I am a Mumbai-based developer passionate about bridging the gap between business
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Karthik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carthical&show_icons=true&theme=radical&hide_border=true" alt="Karthik's GitHub Stats" />
 </p>
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the link above with your actual GitHub username to activate the dynamic stats widget.)*
 
 ---
 
