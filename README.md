@@ -62,5 +62,6 @@ I am a Mumbai-based developer passionate about bridging the gap between business
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/carthical/carthical/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/carthical/carthical/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
+
