@@ -1,4 +1,4 @@
-# Hi there, I'm Karthik Gowda 👋
+﻿# Hi there, I'm Karthik Gowda ðŸ‘‹
 
 **Web Developer | BSc IT Student | SaaS Builder**
 
@@ -6,16 +6,16 @@ I am a Mumbai-based developer passionate about bridging the gap between business
 
 ---
 
-### 🚀 About Me
+### ðŸš€ About Me
 
-- 🔭 **Currently working on:** Expanding my full-stack capabilities and building interactive web applications.
-- 🌱 **Currently learning:** Deep-diving into Data Structures & Algorithms (DSA) and scalable Backend Architecture.
-- 💼 **What I've built:** Engineered a complete SaaS platform for Supremacy Edu featuring role-based authentication, real-time dashboards, and integrated payment gateways (Razorpay).
-- ⚡ **My approach:** I leverage modern BaaS tools like Supabase and AI-assisted workflows to rapidly prototype, build, and ship production-ready applications.
+- ðŸ”­ **Currently working on:** Expanding my full-stack capabilities and building interactive web applications.
+- ðŸŒ± **Currently learning:** Deep-diving into Data Structures & Algorithms (DSA) and scalable Backend Architecture.
+- ðŸ’¼ **What I've built:** Engineered a complete SaaS platform for Supremacy Edu featuring role-based authentication, real-time dashboards, and integrated payment gateways (Razorpay).
+- âš¡ **My approach:** I leverage modern BaaS tools like Supabase and AI-assisted workflows to rapidly prototype, build, and ship production-ready applications.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ðŸ› ï¸ Tech Stack & Tools
 
 **Frontend:**
 <p>
@@ -40,7 +40,7 @@ I am a Mumbai-based developer passionate about bridging the gap between business
 
 ---
 
-### 📈 GitHub Stats
+### ðŸ“ˆ GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=carthical&show_icons=true&theme=radical&hide_border=true" alt="Karthik's GitHub Stats" />
@@ -48,7 +48,7 @@ I am a Mumbai-based developer passionate about bridging the gap between business
 
 ---
 
-### 📫 Let's Connect
+### ðŸ“« Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/carthical/">
@@ -58,3 +58,9 @@ I am a Mumbai-based developer passionate about bridging the gap between business
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carthical/carthical/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</div>
